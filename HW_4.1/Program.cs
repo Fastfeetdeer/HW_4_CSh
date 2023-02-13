@@ -31,3 +31,4 @@ if (ValidStep(b))
 {
     Console.WriteLine($"{Method1(a, b)}");
 }
+Console.WriteLine("Программа завершила работу");
